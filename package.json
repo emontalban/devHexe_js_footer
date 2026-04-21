@@ -1,0 +1,26 @@
+{
+  "name": "devhexe_js_footer",
+  "version": "0.1.0",
+  "description": "This module allows for a dynamic footer to be generated for JS applications with an updated year and name.",
+  "keywords": [
+    "footer"
+  ],
+  "homepage": "https://github.com/emontalban/devHexe_js_footer#readme",
+  "bugs": {
+    "url": "https://github.com/emontalban/devHexe_js_footer/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emontalban/devHexe_js_footer.git"
+  },
+  "license": "MIT",
+  "author": "hexe_sham <yususssham@gmail.com> (https://www.npmjs.com/~hexe_sham)",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "moment": "^2.30.1"
+  }
+}
